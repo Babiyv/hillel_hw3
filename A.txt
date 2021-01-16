@@ -1,1 +1,2 @@
 file A
+new line 18 in A
